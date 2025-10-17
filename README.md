@@ -51,7 +51,7 @@ Ensure you have the following installed:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yusha0123/Quiz-App.git
+   git clone https://github.com/gogulkrishnan12-cloud/QUIZ-APP
    ```
 2. Navigate to the project directory
    ```sh
